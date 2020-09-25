@@ -1,12 +1,12 @@
 .home-link{
-    color:#000000!important;
-    font-weight: bold;
+    color:#000000 !important;
+    font-weight: bold !important;
 }
 .signup-btn {
     color:#fff !important;
-    background-color:#e70c60 !important;
-    border-radius: 21px 20px 20px 18px !important;
-    padding:3% !important;
-    width:8rem !important;
+    background-color:#e70c60;
+    border-radius: 21px 20px 20px 18px;
+    padding:3% ;
+    width:8rem ;
  
 }

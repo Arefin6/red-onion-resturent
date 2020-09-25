@@ -1,0 +1,30 @@
+.search-wrap{
+    background-image: url("../../bannerbackground.png");
+    background-position-x: center;
+    background-position-y:center;
+    background-size: cover;
+    width: 104%;
+    height:22rem;
+}
+.search-content {
+    padding: 3rem 26rem;
+}
+.search-content input{
+  margin-top: 1rem;
+  width:16rem;
+  padding-left: 1.5rem;
+  height: 3rem;
+  border: none;
+  border-radius: 26px 20px 20px 18px;
+}
+.search-content input:focus{
+    outline: none;
+}
+.search-btn,.search-btn:hover{
+    width:7rem;
+    background-color: #e70c60;
+    color: #fff;
+    border-radius: 31px 37px 33px 28px;
+    margin-left: -2rem;
+    
+}
